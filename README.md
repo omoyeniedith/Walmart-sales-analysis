@@ -1,8 +1,8 @@
-🛒 Walmart Sales Data Analysis
+## 🛒 Walmart Sales Data Analysis
 
 
 
-📊 Project Overview
+## 📊 Project Overview
 
 This project analyzes Walmart’s historical sales data to uncover patterns in weekly sales performance, seasonal trends, and store-level behavior.
 
@@ -10,7 +10,7 @@ The goal is to convert raw transactional data into clear insights that support b
 
 
 
-🎯 Objectives
+## 🎯 Objectives
 
 Explore the distribution of weekly sales across multiple stores
 
@@ -22,7 +22,7 @@ Generate insights that highlight store performance and revenue behavior
 
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python – Data analysis and visualization
 
@@ -36,14 +36,14 @@ Jupyter Notebook – Interactive analysis
 
 
 
-📁 Dataset
+## 📁 Dataset
 
 Source: Kaggle – Walmart Sales Dataset
 
 The dataset contains weekly sales records for multiple Walmart stores, along with economic indicators such as fuel price, CPI, unemployment, and holiday flags.
 
 
-📈 Key Insights
+## 📈 Key Insights
 
 Weekly sales show strong seasonal patterns, with noticeable spikes during holiday periods.
 
@@ -53,14 +53,14 @@ Sales data is right-skewed, suggesting occasional high-revenue weeks that signif
 
 
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 
 ├── Walmart_Sales.ipynb   # Data cleaning, EDA, and visualizations
 ├── README.md             # Project documentation
 
 
 
-▶️ How to Run
+## ▶️ How to Run
 
 Clone this repository
 
@@ -69,7 +69,7 @@ Install the required libraries
 Open the Jupyter Notebook and run all cells
 
 
-💡 Business Value
+## 💡 Business Value
 
 This analysis demonstrates how retail sales data can be used to:
 
