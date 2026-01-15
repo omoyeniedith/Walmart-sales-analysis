@@ -1,11 +1,14 @@
 🛒 Walmart Sales Data Analysis
 
 
+
 📊 Project Overview
 
 This project analyzes Walmart’s historical sales data to uncover patterns in weekly sales performance, seasonal trends, and store-level behavior.
 
 The goal is to convert raw transactional data into clear insights that support business and strategic decision-making using Python.
+
+
 
 🎯 Objectives
 
@@ -16,6 +19,7 @@ Identify seasonal and holiday-driven sales patterns
 Analyze long-term sales trends over time
 
 Generate insights that highlight store performance and revenue behavior
+
 
 
 🛠️ Tools & Technologies
@@ -29,6 +33,7 @@ NumPy – Numerical computations
 Matplotlib & Seaborn – Data visualization
 
 Jupyter Notebook – Interactive analysis
+
 
 
 📁 Dataset
@@ -47,10 +52,13 @@ Certain stores consistently outperform others, indicating differences in demand 
 Sales data is right-skewed, suggesting occasional high-revenue weeks that significantly impact overall performance.
 
 
+
 🗂️ Project Structure
 
 ├── Walmart_Sales.ipynb   # Data cleaning, EDA, and visualizations
 ├── README.md             # Project documentation
+
+
 
 ▶️ How to Run
 
@@ -70,6 +78,8 @@ Understand demand patterns
 Improve sales forecasting
 
 Support strategic planning and performance evaluation
+
+
 
 🙏 Acknowledgement
 
